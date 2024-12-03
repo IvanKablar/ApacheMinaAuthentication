@@ -28,7 +28,7 @@ Der Unterzeichner verschlüsselt den von ihm erstellten Hashwert mit seinem priv
 Der Prüfer validiert die Signatur, indem er den Hashwert entschlüsselt und vergleicht den erhaltenen Hashwert mit dem zuvor berechneten Hashwert.
 Stimmen beide Hashwerte überein, ist die Signatur und damit die Identität des Unterzeichners sowie die Echtheit der Nachricht bestätigt.
 
-![Prüfung der digitalen Signatur](/assets/images/posts/Authentifizierung-ueber-oeffentliche-Schluessel-mit-Apache-MINA/DigitaleSignatur.png)
+![Prüfung der digitalen Signatur](/DigitaleSignatur.png)
 
 
 # Authentifizierung über öffentliche Schlüssel
